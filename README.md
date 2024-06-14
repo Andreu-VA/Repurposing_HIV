@@ -6,3 +6,6 @@ This my Machine Learning project for a bootcamp on data science that I am enrole
 You can find a project summary notebook in src/project_resume, plus notebooks for each step of the project (data analysis, data pre-processing, machine learning tuning, etc.)
 
 Finally, once the model was optimized, I tested the model with a "real-life" example, which is a Drug Repurpose database that aims to find a new application to already available and approved drugs and chemicals. 
+
+https://go.drugbank.com/
+https://tdcommons.ai/
